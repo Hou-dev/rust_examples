@@ -1,0 +1,1 @@
+/home/javed/Documents/Projects/RustRepo/ultimate_rust_crash_course/exercise/h_closures_threads/target/debug/h_closures_threads: /home/javed/Documents/Projects/RustRepo/ultimate_rust_crash_course/exercise/h_closures_threads/src/main.rs

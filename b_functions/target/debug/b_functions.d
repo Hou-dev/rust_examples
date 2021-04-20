@@ -1,0 +1,1 @@
+/home/javed/Documents/Projects/RustRepo/ultimate_rust_crash_course/exercise/b_functions/target/debug/b_functions: /home/javed/Documents/Projects/RustRepo/ultimate_rust_crash_course/exercise/b_functions/src/main.rs

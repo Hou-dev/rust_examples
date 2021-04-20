@@ -1,0 +1,1 @@
+/home/javed/Documents/Projects/RustRepo/ultimate_rust_crash_course/exercise/f_structs_traits/target/debug/f_structs_traits: /home/javed/Documents/Projects/RustRepo/ultimate_rust_crash_course/exercise/f_structs_traits/src/main.rs

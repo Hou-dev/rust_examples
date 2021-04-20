@@ -1,0 +1,1 @@
+/home/javed/Documents/Projects/RustRepo/ultimate_rust_crash_course/exercise/e_ownership_references/target/debug/e_ownership_references: /home/javed/Documents/Projects/RustRepo/ultimate_rust_crash_course/exercise/e_ownership_references/src/main.rs
